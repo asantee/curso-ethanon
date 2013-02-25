@@ -1,5 +1,5 @@
-ethanon-space-shooter
-=====================
+curso-ethanon
+=============
 
 Código base para o curso de introdução ao Ethanon Engine
 
